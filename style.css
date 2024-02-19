@@ -1,0 +1,75 @@
+.login a:hover{
+    text-decoration: none;
+}
+.sell-btn{
+    width: 195px;
+    height: 50px;
+    background-image: url('./images/sell.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.items{
+    cursor: pointer;
+}
+.card-img1{
+    background-image: url('https://images.olx.com.pk/thumbnails/408728083-240x180.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+}
+.cards1{
+    cursor: pointer;
+    width: 110px;
+    height: 110px;
+}
+._47cdfee7 {
+    width: 0.1rem;
+    margin: 0 auto;
+    background-color: rgba(0,47,52,.2);
+    height: 8.6rem;
+}
+.pa{
+    padding-right: 150px;
+}
+.pad{
+    padding-left: 200px;
+}
+li a{
+    text-decoration: none;
+    color: rgba(105, 104, 104, 0.991);
+    font-size: 12px;
+}
+ul{
+    list-style: none;
+}
+.foot{
+    padding: 0px 0px 0px 0px;
+}
+.footer{
+    background-color: #002F34;
+    color: white;
+}
+.footer h6{
+    font-size: 13px;
+}
+.footer p{
+    font-size: 11px;
+}
+.top-nav-color:hover{
+    fill:#3A76FD;
+}
+
+.form-control:focus {
+    border-color: transparent !important;
+    box-shadow:none !important;
+  }
+  .input-group-text{
+    border: none !important;
+    border-radius: 0 !important;
+  }
+  .cardhead{
+
+  }
